@@ -1,0 +1,45 @@
+<resources>
+    <string name="app_name">PopularMovies-Stage-2</string>
+    <string name="action_settings">Settings</string>
+    <string name="lbl_popular_movies">Popular Movies</string>
+    <string name="lbl_top_rated_movies">Top Rated Movies</string>
+    <string name="lbl_favorites_movies">Favorites Movies</string>
+
+
+    <!-- Details Labels -->
+    <string name="lbl_title">Title</string>
+    <string name="lbl_release_date">Release Date</string>
+    <string name="lbl_vote_average">Vote Average</string>
+    <string name="lbl_overview">Overview</string>
+    <string name="title_movie_detail">Movie Detail</string>
+    <string name="lbl_favorite">Favorite</string>
+    <string name="lbl_videos_trailers">Videos Trailers</string>
+    <string name="lbl_reviews">Reviews</string>
+    <string name="no_reviews_found">No reviews found for this movie.</string>
+    <string name="no_trailers_available">No trailers found for this movie.</string>
+    <string name="unable_to_fetch_reviews">Unable to fetch reviews for this movie. Please try again.</string>
+    <string name="unable_to_fetch_trailers">Unable to fetch trailers for this movie. Please try again.</string>
+    <string name="unable_to_view_video">Unable to view trailer. Please try again.</string>
+    <string name="favorite_movie_added">Added to favorite successfully</string>
+    <string name="favorite_movie_removed">Removed from favorite</string>
+
+    <!-- no internet dialog -->
+    <string name="no_internet_connection">No Internet Connection</string>
+    <string name="message_no_internet">You need to have Mobile Data or Wi-Fi to show movies list.</string>
+
+    <string name="ok">OK</string>
+
+    <!-- sort order by dialog -->
+    <string name="sort_order_by">Sort Order By</string>
+    <string name="apply">Apply</string>
+    <string name="cancel">Cancel</string>
+
+    <!-- Toast message no movies found -->
+    <string name="no_movies_found">No movies found for this sort order. Please try again.</string>
+    <string name="invalid_options">This option is not valid. Please try again.</string>
+
+    <!-- Content Description -->
+    <string name="img_content_poster">Poster image</string>
+    <string name="img_content_trailer">Trailer thumbnails</string>
+
+</resources>

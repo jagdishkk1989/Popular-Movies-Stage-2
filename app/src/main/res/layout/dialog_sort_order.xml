@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RadioGroup xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/rdoGroupOrderBy"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:layout_margin="@dimen/padding_parent_views"
+    >
+
+    <RadioButton
+        android:id="@+id/rdoBtnPopularMovies"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/lbl_popular_movies" />
+
+    <RadioButton
+        android:id="@+id/rdoBtnTopRatedMovies"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/lbl_top_rated_movies" />
+
+    <RadioButton
+        android:id="@+id/rdoBtnFavoriteMovies"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/lbl_favorites_movies" />
+</RadioGroup>
